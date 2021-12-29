@@ -2,7 +2,7 @@
 [![Ifacebook](https://img.shields.io/badge/FACEBOOK-%40alamgirtrick1-red?style=flat-square&logo=facebook)](https://www.facebook.com/sagorpriya440)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=flat-square&logo=messenger)](https://www.facebook.com/sagorpriya440)
 
-<h1 align="center">BSIX v1.0</h1>
+<h1 align="center">ALAMGIR v1.0</h1>
 <p align="center">
       A new facebook account cracker tool for termux users
 </p>
